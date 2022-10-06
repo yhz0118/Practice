@@ -24,7 +24,7 @@ class CSharpApp
 
   static void Main(string[] args)
   {
-    string path = "/Users/yielding/code/cs/file_io.bin";
+    string path = "/Users/yunseochoi/file_io.bin";
     var app = new CSharpApp();
     app.BinFileIO(path);
   }
